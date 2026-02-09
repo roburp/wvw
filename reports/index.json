@@ -1,0 +1,30 @@
+[
+  {
+    "id": "20260209-172152-5nnx",
+    "title": "Willow Stormhunter",
+    "commanders": [
+      "Willow Stormhunter"
+    ],
+    "dateStart": "2026-02-09T09:21:52.000Z",
+    "dateEnd": "2026-02-09T11:13:31.000Z",
+    "dateLabel": "2/9/2026, 5:21:52 PM - 2/9/2026, 7:13:31 PM",
+    "url": "https://roburp.github.io/wvw/?report=20260209-172152-5nnx",
+    "summary": {
+      "borderlandsPct": 0.05128205128205128,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 37,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 24
+    }
+  }
+]
