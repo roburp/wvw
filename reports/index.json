@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260210-174815-kee3",
+    "title": "Markus Headcrusher",
+    "commanders": [
+      "Markus Headcrusher"
+    ],
+    "dateStart": "2026-02-10T09:48:15.000Z",
+    "dateEnd": "2026-02-10T11:02:32.000Z",
+    "dateLabel": "2/10/2026, 5:48:15 PM - 2/10/2026, 7:02:32 PM",
+    "url": "https://roburp.github.io/wvw/?report=20260210-174815-kee3",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 12,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 37,
+      "avgEnemySize": 38
+    }
+  },
+  {
     "id": "20260209-172152-5nnx",
     "title": "Willow Stormhunter",
     "commanders": [
