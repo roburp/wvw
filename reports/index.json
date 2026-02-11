@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260211-215003-7cpl",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-02-11T13:50:03.000Z",
+    "dateEnd": "2026-02-11T15:18:32.000Z",
+    "dateLabel": "2/11/2026, 9:50:03 PM - 2/11/2026, 11:18:32 PM",
+    "url": "https://roburp.github.io/wvw/?report=20260211-215003-7cpl",
+    "summary": {
+      "borderlandsPct": 0.030303030303030304,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 32,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 18
+    }
+  },
+  {
     "id": "20260211-171000-6vgm",
     "title": "Markus Headcrusher, Markus Is One, Markus Lifetaker",
     "commanders": [
