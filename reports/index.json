@@ -1,5 +1,30 @@
 [
   {
+    "id": "20260211-171000-6vgm",
+    "title": "Markus Headcrusher, Markus Is One, Markus Lifetaker",
+    "commanders": [
+      "Markus Headcrusher",
+      "Markus Is One",
+      "Markus Lifetaker"
+    ],
+    "dateStart": "2026-02-11T09:10:00.000Z",
+    "dateEnd": "2026-02-11T11:10:24.000Z",
+    "dateLabel": "2/11/2026, 5:10:00 PM - 2/11/2026, 7:10:24 PM",
+    "url": "https://roburp.github.io/wvw/?report=20260211-171000-6vgm",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 45,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 33,
+      "avgEnemySize": 28
+    }
+  },
+  {
     "id": "20260210-174815-kee3",
     "title": "Markus Headcrusher",
     "commanders": [
