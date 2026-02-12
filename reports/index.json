@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260212-164227-20u5",
+    "title": "Markus Is One",
+    "commanders": [
+      "Markus Is One"
+    ],
+    "dateStart": "2026-02-12T08:42:27.000Z",
+    "dateEnd": "2026-02-12T11:03:53.000Z",
+    "dateLabel": "2/12/2026, 4:42:27 PM - 2/12/2026, 7:03:53 PM",
+    "url": "https://roburp.github.io/wvw/?report=20260212-164227-20u5",
+    "summary": {
+      "borderlandsPct": 0.019230769230769232,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 51,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 13
+    }
+  },
+  {
     "id": "20260211-215003-7cpl",
     "title": "Alpha Thug",
     "commanders": [
