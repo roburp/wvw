@@ -1,5 +1,38 @@
 [
   {
+    "id": "20260214-164519-c7uc",
+    "title": "Markus Is One",
+    "commanders": [
+      "Markus Is One"
+    ],
+    "dateStart": "2026-02-14T08:45:19.000Z",
+    "dateEnd": "2026-02-14T11:10:34.000Z",
+    "dateLabel": "2/14/2026, 4:45:19 PM - 2/14/2026, 7:10:34 PM",
+    "url": "https://roburp.github.io/wvw/?report=20260214-164519-c7uc",
+    "summary": {
+      "borderlandsPct": 0.11267605633802817,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 63,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 21
+    }
+  },
+  {
     "id": "20260213-170314-97zg",
     "title": "Markus Is One",
     "commanders": [
