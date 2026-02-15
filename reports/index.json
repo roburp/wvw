@@ -1,5 +1,39 @@
 [
   {
+    "id": "20260215-213913-sdjp",
+    "title": "Alpha Thug, Mofo Mafia",
+    "commanders": [
+      "Alpha Thug",
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-02-15T13:39:13.000Z",
+    "dateEnd": "2026-02-15T15:12:25.000Z",
+    "dateLabel": "2/15/2026, 9:39:13 PM - 2/15/2026, 11:12:25 PM",
+    "url": "https://roburp.github.io/wvw/?report=20260215-213913-sdjp",
+    "summary": {
+      "borderlandsPct": 0.16666666666666666,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 20,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 27,
+      "avgEnemySize": 35
+    }
+  },
+  {
     "id": "20260215-165233-hpa1",
     "title": "Napalm Phantasm",
     "commanders": [
