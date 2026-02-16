@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260216-170614-wydb",
+    "title": "Willow Stormhunter",
+    "commanders": [
+      "Willow Stormhunter"
+    ],
+    "dateStart": "2026-02-16T09:06:14.000Z",
+    "dateEnd": "2026-02-16T10:55:44.000Z",
+    "dateLabel": "2/16/2026, 5:06:14 PM - 2/16/2026, 6:55:44 PM",
+    "url": "https://roburp.github.io/wvw/?report=20260216-170614-wydb",
+    "summary": {
+      "borderlandsPct": 0.02564102564102564,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 38,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 13
+    }
+  },
+  {
     "id": "20260215-213913-sdjp",
     "title": "Alpha Thug, Mofo Mafia",
     "commanders": [
