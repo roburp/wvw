@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260217-214212-2x5a",
+    "title": "Alpha Thug, Mofo Mafia",
+    "commanders": [
+      "Alpha Thug",
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-02-17T13:42:12.000Z",
+    "dateEnd": "2026-02-17T15:16:20.000Z",
+    "dateLabel": "2/17/2026, 9:42:12 PM - 2/17/2026, 11:16:20 PM",
+    "url": "https://roburp.github.io/wvw/?report=20260217-214212-2x5a",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 30,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 31
+    }
+  },
+  {
     "id": "20260217-164845-hns3",
     "title": "Markus Is One",
     "commanders": [
