@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260217-164845-n9w9",
+    "title": "Markus Is One",
+    "commanders": [
+      "Markus Is One"
+    ],
+    "dateStart": "2026-02-17T08:48:45.000Z",
+    "dateEnd": "2026-02-17T11:08:01.000Z",
+    "dateLabel": "2/17/2026, 4:48:45 PM - 2/17/2026, 7:08:01 PM",
+    "url": "https://roburp.github.io/wvw/?report=20260217-164845-n9w9",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 2,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 51,
+      "avgEnemySize": 25
+    }
+  },
+  {
     "id": "20260216-170614-wydb",
     "title": "Willow Stormhunter",
     "commanders": [
