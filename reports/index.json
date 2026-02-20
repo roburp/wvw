@@ -1,5 +1,30 @@
 [
   {
+    "id": "20260220-214052-9dwq",
+    "title": "Alpha Thug, Fiddyb, Mofo Mafia",
+    "commanders": [
+      "Alpha Thug",
+      "Fiddyb",
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-02-20T13:40:52.000Z",
+    "dateEnd": "2026-02-20T14:52:14.000Z",
+    "dateLabel": "2/20/2026, 9:40:52 PM - 2/20/2026, 10:52:14 PM",
+    "url": "https://roburp.github.io/wvw/?report=20260220-214052-9dwq",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 32,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 32
+    }
+  },
+  {
     "id": "20260218-170706-3zpy",
     "title": "Markus Is One",
     "commanders": [
