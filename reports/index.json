@@ -1,428 +1,461 @@
-[
-  {
-    "id": "20260220-214052-9dwq",
-    "title": "Alpha Thug, Fiddyb, Mofo Mafia",
-    "commanders": [
-      "Alpha Thug",
-      "Fiddyb",
-      "Mofo Mafia"
-    ],
-    "dateStart": "2026-02-20T13:40:52.000Z",
-    "dateEnd": "2026-02-20T14:52:14.000Z",
-    "dateLabel": "2/20/2026, 9:40:52 PM - 2/20/2026, 10:52:14 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260220-214052-9dwq",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 32,
-          "color": "#ffffff"
-        }
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260506-213549-33z6",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 32
-    }
-  },
-  {
-    "id": "20260218-170706-3zpy",
-    "title": "Markus Is One",
-    "commanders": [
-      "Markus Is One"
-    ],
-    "dateStart": "2026-02-18T09:07:06.000Z",
-    "dateEnd": "2026-02-18T10:48:14.000Z",
-    "dateLabel": "2/18/2026, 5:07:06 PM - 2/18/2026, 6:48:14 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260218-170706-3zpy",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 23,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-05-06T13:35:49.000Z",
+      "dateEnd": "2026-05-06T15:14:53.000Z",
+      "dateLabel": "5/6/2026, 9:35:49 PM - 5/6/2026, 11:14:53 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260506-213549-33z6",
+      "summary": {
+        "borderlandsPct": 0.17647058823529413,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 34
+      }
+    },
+    {
+      "id": "20260220-214052-9dwq",
+      "title": "Alpha Thug, Fiddyb, Mofo Mafia",
+      "commanders": [
+        "Alpha Thug",
+        "Fiddyb",
+        "Mofo Mafia"
       ],
-      "avgSquadSize": 34,
-      "avgEnemySize": 19
-    }
-  },
-  {
-    "id": "20260217-214212-2x5a",
-    "title": "Alpha Thug, Mofo Mafia",
-    "commanders": [
-      "Alpha Thug",
-      "Mofo Mafia"
-    ],
-    "dateStart": "2026-02-17T13:42:12.000Z",
-    "dateEnd": "2026-02-17T15:16:20.000Z",
-    "dateLabel": "2/17/2026, 9:42:12 PM - 2/17/2026, 11:16:20 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260217-214212-2x5a",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 30,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-20T13:40:52.000Z",
+      "dateEnd": "2026-02-20T14:52:14.000Z",
+      "dateLabel": "2/20/2026, 9:40:52 PM - 2/20/2026, 10:52:14 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260220-214052-9dwq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 32
+      }
+    },
+    {
+      "id": "20260218-170706-3zpy",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 31
-    }
-  },
-  {
-    "id": "20260217-164845-hns3",
-    "title": "Markus Is One",
-    "commanders": [
-      "Markus Is One"
-    ],
-    "dateStart": "2026-02-17T08:48:45.000Z",
-    "dateEnd": "2026-02-17T11:08:01.000Z",
-    "dateLabel": "2/17/2026, 4:48:45 PM - 2/17/2026, 7:08:01 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260217-164845-hns3",
-    "summary": {
-      "borderlandsPct": 0.01694915254237288,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 58,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-18T09:07:06.000Z",
+      "dateEnd": "2026-02-18T10:48:14.000Z",
+      "dateLabel": "2/18/2026, 5:07:06 PM - 2/18/2026, 6:48:14 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260218-170706-3zpy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 19
+      }
+    },
+    {
+      "id": "20260217-214212-2x5a",
+      "title": "Alpha Thug, Mofo Mafia",
+      "commanders": [
+        "Alpha Thug",
+        "Mofo Mafia"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 16
-    }
-  },
-  {
-    "id": "20260216-170614-wydb",
-    "title": "Willow Stormhunter",
-    "commanders": [
-      "Willow Stormhunter"
-    ],
-    "dateStart": "2026-02-16T09:06:14.000Z",
-    "dateEnd": "2026-02-16T10:55:44.000Z",
-    "dateLabel": "2/16/2026, 5:06:14 PM - 2/16/2026, 6:55:44 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260216-170614-wydb",
-    "summary": {
-      "borderlandsPct": 0.02564102564102564,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 38,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-17T13:42:12.000Z",
+      "dateEnd": "2026-02-17T15:16:20.000Z",
+      "dateLabel": "2/17/2026, 9:42:12 PM - 2/17/2026, 11:16:20 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260217-214212-2x5a",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 31
+      }
+    },
+    {
+      "id": "20260217-164845-hns3",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 13
-    }
-  },
-  {
-    "id": "20260215-213913-sdjp",
-    "title": "Alpha Thug, Mofo Mafia",
-    "commanders": [
-      "Alpha Thug",
-      "Mofo Mafia"
-    ],
-    "dateStart": "2026-02-15T13:39:13.000Z",
-    "dateEnd": "2026-02-15T15:12:25.000Z",
-    "dateLabel": "2/15/2026, 9:39:13 PM - 2/15/2026, 11:12:25 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260215-213913-sdjp",
-    "summary": {
-      "borderlandsPct": 0.16666666666666666,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 20,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 2,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 2,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-17T08:48:45.000Z",
+      "dateEnd": "2026-02-17T11:08:01.000Z",
+      "dateLabel": "2/17/2026, 4:48:45 PM - 2/17/2026, 7:08:01 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260217-164845-hns3",
+      "summary": {
+        "borderlandsPct": 0.01694915254237288,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 58,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 16
+      }
+    },
+    {
+      "id": "20260216-170614-wydb",
+      "title": "Willow Stormhunter",
+      "commanders": [
+        "Willow Stormhunter"
       ],
-      "avgSquadSize": 27,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260215-165233-hpa1",
-    "title": "Napalm Phantasm",
-    "commanders": [
-      "Napalm Phantasm"
-    ],
-    "dateStart": "2026-02-15T08:52:33.000Z",
-    "dateEnd": "2026-02-15T11:08:38.000Z",
-    "dateLabel": "2/15/2026, 4:52:33 PM - 2/15/2026, 7:08:38 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260215-165233-hpa1",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 31,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-16T09:06:14.000Z",
+      "dateEnd": "2026-02-16T10:55:44.000Z",
+      "dateLabel": "2/16/2026, 5:06:14 PM - 2/16/2026, 6:55:44 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260216-170614-wydb",
+      "summary": {
+        "borderlandsPct": 0.02564102564102564,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 13
+      }
+    },
+    {
+      "id": "20260215-213913-sdjp",
+      "title": "Alpha Thug, Mofo Mafia",
+      "commanders": [
+        "Alpha Thug",
+        "Mofo Mafia"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 23
-    }
-  },
-  {
-    "id": "20260214-213503-d6k2",
-    "title": "Alpha Thug, Mofo Mafia",
-    "commanders": [
-      "Alpha Thug",
-      "Mofo Mafia"
-    ],
-    "dateStart": "2026-02-14T13:35:03.000Z",
-    "dateEnd": "2026-02-14T15:22:15.000Z",
-    "dateLabel": "2/14/2026, 9:35:03 PM - 2/14/2026, 11:22:15 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260214-213503-d6k2",
-    "summary": {
-      "borderlandsPct": 0.11764705882352941,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 45,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 6,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-15T13:39:13.000Z",
+      "dateEnd": "2026-02-15T15:12:25.000Z",
+      "dateLabel": "2/15/2026, 9:39:13 PM - 2/15/2026, 11:12:25 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260215-213913-sdjp",
+      "summary": {
+        "borderlandsPct": 0.16666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260215-165233-hpa1",
+      "title": "Napalm Phantasm",
+      "commanders": [
+        "Napalm Phantasm"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 23
-    }
-  },
-  {
-    "id": "20260214-164519-c7uc",
-    "title": "Markus Is One",
-    "commanders": [
-      "Markus Is One"
-    ],
-    "dateStart": "2026-02-14T08:45:19.000Z",
-    "dateEnd": "2026-02-14T11:10:34.000Z",
-    "dateLabel": "2/14/2026, 4:45:19 PM - 2/14/2026, 7:10:34 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260214-164519-c7uc",
-    "summary": {
-      "borderlandsPct": 0.11267605633802817,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 63,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 3,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-15T08:52:33.000Z",
+      "dateEnd": "2026-02-15T11:08:38.000Z",
+      "dateLabel": "2/15/2026, 4:52:33 PM - 2/15/2026, 7:08:38 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260215-165233-hpa1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 23
+      }
+    },
+    {
+      "id": "20260214-213503-d6k2",
+      "title": "Alpha Thug, Mofo Mafia",
+      "commanders": [
+        "Alpha Thug",
+        "Mofo Mafia"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 21
-    }
-  },
-  {
-    "id": "20260213-170314-97zg",
-    "title": "Markus Is One",
-    "commanders": [
-      "Markus Is One"
-    ],
-    "dateStart": "2026-02-13T09:03:14.000Z",
-    "dateEnd": "2026-02-13T10:46:34.000Z",
-    "dateLabel": "2/13/2026, 5:03:14 PM - 2/13/2026, 6:46:34 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260213-170314-97zg",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 15,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-14T13:35:03.000Z",
+      "dateEnd": "2026-02-14T15:22:15.000Z",
+      "dateLabel": "2/14/2026, 9:35:03 PM - 2/14/2026, 11:22:15 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260214-213503-d6k2",
+      "summary": {
+        "borderlandsPct": 0.11764705882352941,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 45,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 23
+      }
+    },
+    {
+      "id": "20260214-164519-c7uc",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
       ],
-      "avgSquadSize": 40,
-      "avgEnemySize": 16
-    }
-  },
-  {
-    "id": "20260212-220258-xypl",
-    "title": "Fiddyb, Mofo Mafia",
-    "commanders": [
-      "Fiddyb",
-      "Mofo Mafia"
-    ],
-    "dateStart": "2026-02-12T14:02:58.000Z",
-    "dateEnd": "2026-02-12T15:39:00.000Z",
-    "dateLabel": "2/12/2026, 10:02:58 PM - 2/12/2026, 11:39:00 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260212-220258-xypl",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 22,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-14T08:45:19.000Z",
+      "dateEnd": "2026-02-14T11:10:34.000Z",
+      "dateLabel": "2/14/2026, 4:45:19 PM - 2/14/2026, 7:10:34 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260214-164519-c7uc",
+      "summary": {
+        "borderlandsPct": 0.11267605633802817,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 63,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 21
+      }
+    },
+    {
+      "id": "20260213-170314-97zg",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
       ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 15
-    }
-  },
-  {
-    "id": "20260212-164227-20u5",
-    "title": "Markus Is One",
-    "commanders": [
-      "Markus Is One"
-    ],
-    "dateStart": "2026-02-12T08:42:27.000Z",
-    "dateEnd": "2026-02-12T11:03:53.000Z",
-    "dateLabel": "2/12/2026, 4:42:27 PM - 2/12/2026, 7:03:53 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260212-164227-20u5",
-    "summary": {
-      "borderlandsPct": 0.019230769230769232,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 51,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-13T09:03:14.000Z",
+      "dateEnd": "2026-02-13T10:46:34.000Z",
+      "dateLabel": "2/13/2026, 5:03:14 PM - 2/13/2026, 6:46:34 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260213-170314-97zg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 16
+      }
+    },
+    {
+      "id": "20260212-220258-xypl",
+      "title": "Fiddyb, Mofo Mafia",
+      "commanders": [
+        "Fiddyb",
+        "Mofo Mafia"
       ],
-      "avgSquadSize": 34,
-      "avgEnemySize": 13
-    }
-  },
-  {
-    "id": "20260211-215003-7cpl",
-    "title": "Alpha Thug",
-    "commanders": [
-      "Alpha Thug"
-    ],
-    "dateStart": "2026-02-11T13:50:03.000Z",
-    "dateEnd": "2026-02-11T15:18:32.000Z",
-    "dateLabel": "2/11/2026, 9:50:03 PM - 2/11/2026, 11:18:32 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260211-215003-7cpl",
-    "summary": {
-      "borderlandsPct": 0.030303030303030304,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 32,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-12T14:02:58.000Z",
+      "dateEnd": "2026-02-12T15:39:00.000Z",
+      "dateLabel": "2/12/2026, 10:02:58 PM - 2/12/2026, 11:39:00 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260212-220258-xypl",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 15
+      }
+    },
+    {
+      "id": "20260212-164227-20u5",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
       ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 18
-    }
-  },
-  {
-    "id": "20260211-171000-6vgm",
-    "title": "Markus Headcrusher, Markus Is One, Markus Lifetaker",
-    "commanders": [
-      "Markus Headcrusher",
-      "Markus Is One",
-      "Markus Lifetaker"
-    ],
-    "dateStart": "2026-02-11T09:10:00.000Z",
-    "dateEnd": "2026-02-11T11:10:24.000Z",
-    "dateLabel": "2/11/2026, 5:10:00 PM - 2/11/2026, 7:10:24 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260211-171000-6vgm",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 45,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-12T08:42:27.000Z",
+      "dateEnd": "2026-02-12T11:03:53.000Z",
+      "dateLabel": "2/12/2026, 4:42:27 PM - 2/12/2026, 7:03:53 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260212-164227-20u5",
+      "summary": {
+        "borderlandsPct": 0.019230769230769232,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 51,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 13
+      }
+    },
+    {
+      "id": "20260211-215003-7cpl",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
       ],
-      "avgSquadSize": 33,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260210-174815-kee3",
-    "title": "Markus Headcrusher",
-    "commanders": [
-      "Markus Headcrusher"
-    ],
-    "dateStart": "2026-02-10T09:48:15.000Z",
-    "dateEnd": "2026-02-10T11:02:32.000Z",
-    "dateLabel": "2/10/2026, 5:48:15 PM - 2/10/2026, 7:02:32 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260210-174815-kee3",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 12,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-11T13:50:03.000Z",
+      "dateEnd": "2026-02-11T15:18:32.000Z",
+      "dateLabel": "2/11/2026, 9:50:03 PM - 2/11/2026, 11:18:32 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260211-215003-7cpl",
+      "summary": {
+        "borderlandsPct": 0.030303030303030304,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 18
+      }
+    },
+    {
+      "id": "20260211-171000-6vgm",
+      "title": "Markus Headcrusher, Markus Is One, Markus Lifetaker",
+      "commanders": [
+        "Markus Headcrusher",
+        "Markus Is One",
+        "Markus Lifetaker"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260209-172152-5nnx",
-    "title": "Willow Stormhunter",
-    "commanders": [
-      "Willow Stormhunter"
-    ],
-    "dateStart": "2026-02-09T09:21:52.000Z",
-    "dateEnd": "2026-02-09T11:13:31.000Z",
-    "dateLabel": "2/9/2026, 5:21:52 PM - 2/9/2026, 7:13:31 PM",
-    "url": "https://roburp.github.io/wvw/?report=20260209-172152-5nnx",
-    "summary": {
-      "borderlandsPct": 0.05128205128205128,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 37,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 2,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-11T09:10:00.000Z",
+      "dateEnd": "2026-02-11T11:10:24.000Z",
+      "dateLabel": "2/11/2026, 5:10:00 PM - 2/11/2026, 7:10:24 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260211-171000-6vgm",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 45,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 28
+      }
+    },
+    {
+      "id": "20260210-174815-kee3",
+      "title": "Markus Headcrusher",
+      "commanders": [
+        "Markus Headcrusher"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 24
+      "dateStart": "2026-02-10T09:48:15.000Z",
+      "dateEnd": "2026-02-10T11:02:32.000Z",
+      "dateLabel": "2/10/2026, 5:48:15 PM - 2/10/2026, 7:02:32 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260210-174815-kee3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260209-172152-5nnx",
+      "title": "Willow Stormhunter",
+      "commanders": [
+        "Willow Stormhunter"
+      ],
+      "dateStart": "2026-02-09T09:21:52.000Z",
+      "dateEnd": "2026-02-09T11:13:31.000Z",
+      "dateLabel": "2/9/2026, 5:21:52 PM - 2/9/2026, 7:13:31 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260209-172152-5nnx",
+      "summary": {
+        "borderlandsPct": 0.05128205128205128,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 24
+      }
     }
-  }
-]
+  ]
+}
