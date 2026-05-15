@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260515-122558-frdo",
+      "title": "Kearserges",
+      "commanders": [
+        "Kearserges"
+      ],
+      "dateStart": "2026-05-15T04:25:58.000Z",
+      "dateEnd": "2026-05-15T05:37:04.000Z",
+      "dateLabel": "5/15/2026, 12:25:58 PM - 5/15/2026, 1:37:04 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260515-122558-frdo",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260506-213549-33z6",
       "title": "Alpha Thug",
       "commanders": [
