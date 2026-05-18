@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260518-170602-wnw0",
+      "title": "The Deadly Koala, Willow Stormhunter",
+      "commanders": [
+        "The Deadly Koala",
+        "Willow Stormhunter"
+      ],
+      "dateStart": "2026-05-18T09:06:02.000Z",
+      "dateEnd": "2026-05-18T11:44:47.000Z",
+      "dateLabel": "5/18/2026, 5:06:02 PM - 5/18/2026, 7:44:47 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260518-170602-wnw0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260515-122558-frdo",
       "title": "Kearserges",
       "commanders": [
