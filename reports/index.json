@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260526-092256-vjag",
+      "title": "Atros Sandveil",
+      "commanders": [
+        "Atros Sandveil"
+      ],
+      "dateStart": "2026-05-26T01:22:56.000Z",
+      "dateEnd": "2026-05-26T02:27:45.000Z",
+      "dateLabel": "5/26/2026, 9:22:56 AM - 5/26/2026, 10:27:45 AM",
+      "url": "https://roburp.github.io/wvw/?report=20260526-092256-vjag",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 79
+      }
+    },
+    {
       "id": "20260520-182515-abe8",
       "title": "Markus Is One",
       "commanders": [
