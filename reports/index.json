@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260531-215105-m6go",
+      "title": "Mofo Mafia",
+      "commanders": [
+        "Mofo Mafia"
+      ],
+      "dateStart": "2026-05-31T13:51:05.000Z",
+      "dateEnd": "2026-05-31T15:21:55.000Z",
+      "dateLabel": "5/31/2026, 9:51:05 PM - 5/31/2026, 11:21:55 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260531-215105-m6go",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260526-092256-vjag",
       "title": "Atros Sandveil",
       "commanders": [
