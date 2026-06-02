@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260601-101610-ucqs",
+      "title": "Atros Aegisshroud",
+      "commanders": [
+        "Atros Aegisshroud"
+      ],
+      "dateStart": "2026-06-01T02:16:10.000Z",
+      "dateEnd": "2026-06-01T02:57:16.000Z",
+      "dateLabel": "6/1/2026, 10:16:10 AM - 6/1/2026, 10:57:16 AM",
+      "url": "https://roburp.github.io/wvw/?report=20260601-101610-ucqs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 8,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260531-215105-m6go",
       "title": "Mofo Mafia",
       "commanders": [
