@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260603-214532-h0nr",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "dateStart": "2026-06-03T13:45:32.000Z",
+      "dateEnd": "2026-06-03T15:09:02.000Z",
+      "dateLabel": "6/3/2026, 9:45:32 PM - 6/3/2026, 11:09:02 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260603-214532-h0nr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260601-101610-ucqs",
       "title": "Atros Aegisshroud",
       "commanders": [
