@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260218-213927-vmg2",
+      "title": "Mofo Mafia",
+      "commanders": [
+        "Mofo Mafia"
+      ],
+      "dateStart": "2026-02-18T13:39:27.000Z",
+      "dateEnd": "2026-02-18T14:52:34.000Z",
+      "dateLabel": "2/18/2026, 9:39:27 PM - 2/18/2026, 10:52:34 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260218-213927-vmg2",
+      "summary": {
+        "borderlandsPct": 0.47058823529411764,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260603-214532-h0nr",
       "title": "Alpha Thug",
       "commanders": [
