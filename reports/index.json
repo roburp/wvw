@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260608-223745-rpa3",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "dateStart": "2026-06-08T14:37:45.000Z",
+      "dateEnd": "2026-06-08T15:12:18.000Z",
+      "dateLabel": "6/8/2026, 10:37:45 PM - 6/8/2026, 11:12:18 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260608-223745-rpa3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260218-213927-vmg2",
       "title": "Mofo Mafia",
       "commanders": [
