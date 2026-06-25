@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260624-181957-ugs9",
+      "title": "Markus Headcrusher",
+      "commanders": [
+        "Markus Headcrusher"
+      ],
+      "dateStart": "2026-06-24T10:19:57.000Z",
+      "dateEnd": "2026-06-24T11:14:38.000Z",
+      "dateLabel": "6/24/2026, 6:19:57 PM - 6/24/2026, 7:14:38 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260624-181957-ugs9",
+      "summary": {
+        "borderlandsPct": 0.6,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260623-213711-ti9e",
       "title": "Mofo Mafia",
       "commanders": [
