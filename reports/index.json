@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260706-124057-ltue",
+      "title": "Video Game Cmdr Guy",
+      "commanders": [
+        "Video Game Cmdr Guy"
+      ],
+      "dateStart": "2026-07-06T04:40:57.000Z",
+      "dateEnd": "2026-07-06T05:44:01.000Z",
+      "dateLabel": "7/6/2026, 12:40:57 PM - 7/6/2026, 1:44:01 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260706-124057-ltue",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260624-181957-ugs9",
       "title": "Markus Headcrusher",
       "commanders": [
