@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260716-211523-rjei",
+      "title": "Inquisitor Short",
+      "commanders": [
+        "Inquisitor Short"
+      ],
+      "dateStart": "2026-07-16T13:15:23.000Z",
+      "dateEnd": "2026-07-16T14:46:38.000Z",
+      "dateLabel": "7/16/2026, 9:15:23 PM - 7/16/2026, 10:46:38 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260716-211523-rjei",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260706-124057-ltue",
       "title": "Video Game Cmdr Guy",
       "commanders": [
