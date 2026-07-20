@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260720-090727-9g6d",
+      "title": "Atros Sandveil, Atros Shroudcowl",
+      "commanders": [
+        "Atros Sandveil",
+        "Atros Shroudcowl"
+      ],
+      "dateStart": "2026-07-20T01:07:27.000Z",
+      "dateEnd": "2026-07-20T03:02:40.000Z",
+      "dateLabel": "7/20/2026, 9:07:27 AM - 7/20/2026, 11:02:40 AM",
+      "url": "https://roburp.github.io/wvw/?report=20260720-090727-9g6d",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260716-211523-rjei",
       "title": "Inquisitor Short",
       "commanders": [
