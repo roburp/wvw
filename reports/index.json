@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260720-123133-f7xr",
+      "title": "Video Game Cmdr Guy",
+      "commanders": [
+        "Video Game Cmdr Guy"
+      ],
+      "dateStart": "2026-07-20T04:31:33.000Z",
+      "dateEnd": "2026-07-20T05:52:39.000Z",
+      "dateLabel": "7/20/2026, 12:31:33 PM - 7/20/2026, 1:52:39 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260720-123133-f7xr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260720-090727-9g6d",
       "title": "Atros Sandveil, Atros Shroudcowl",
       "commanders": [
