@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-182117-53sl",
+      "title": "Miss Léading, Napalm Revs",
+      "commanders": [
+        "Miss Léading",
+        "Napalm Revs"
+      ],
+      "dateStart": "2026-07-26T10:21:17.000Z",
+      "dateEnd": "2026-07-26T11:42:54.000Z",
+      "dateLabel": "7/26/2026, 6:21:17 PM - 7/26/2026, 7:42:54 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260726-182117-53sl",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260720-123133-f7xr",
       "title": "Video Game Cmdr Guy",
       "commanders": [
