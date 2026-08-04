@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260804-094142-ijms",
+      "title": "Atros Sandveil",
+      "commanders": [
+        "Atros Sandveil"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-04T01:41:42.000Z",
+      "dateEnd": "2026-08-04T02:42:17.000Z",
+      "dateLabel": "8/4/2026, 9:41:42 AM - 8/4/2026, 10:42:17 AM",
+      "url": "https://roburp.github.io/wvw/?report=20260804-094142-ijms",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260726-182117-53sl",
       "title": "Miss Léading, Napalm Revs",
       "commanders": [
