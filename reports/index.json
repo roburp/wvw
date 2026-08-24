@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260823-133505-3xro",
+      "title": "Mohammad Jalalabad, Tony The Tortoise",
+      "commanders": [
+        "Mohammad Jalalabad",
+        "Tony The Tortoise"
+      ],
+      "guild": {
+        "id": "65A0E5D5-6518-EB11-81AA-A77AA130EAB8",
+        "name": "Flying Tortoises",
+        "tag": "FTL"
+      },
+      "dateStart": "2026-08-23T05:35:05.000Z",
+      "dateEnd": "2026-08-23T07:05:40.607Z",
+      "dateLabel": "8/23/2026, 1:35:05 PM - 8/23/2026, 3:05:40 PM",
+      "url": "https://roburp.github.io/wvw/?report=20260823-133505-3xro",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260804-094142-ijms",
       "title": "Atros Sandveil",
       "commanders": [
