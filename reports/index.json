@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261013-122644-m0s8",
+      "title": "Tony The Tortoise",
+      "commanders": [
+        "Tony The Tortoise"
+      ],
+      "guild": {
+        "id": "65A0E5D5-6518-EB11-81AA-A77AA130EAB8",
+        "name": "Flying Tortoises",
+        "tag": "FTL"
+      },
+      "dateStart": "2026-10-13T04:26:44.000Z",
+      "dateEnd": "2026-10-13T05:19:17.738Z",
+      "dateLabel": "10/13/2026, 12:26:44 PM - 10/13/2026, 1:19:17 PM",
+      "url": "https://roburp.github.io/wvw/?report=20261013-122644-m0s8",
+      "publishedBy": "roburp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20261011-105805-e0lf",
       "title": "Atros Sandveil, Tony The Tortoise",
       "commanders": [
